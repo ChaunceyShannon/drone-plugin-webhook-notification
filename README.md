@@ -17,3 +17,7 @@ Usage:
 ```
 
 See also: https://github.com/ChaunceyShannon/notification-webhook
+
+The message will looks like
+
+![image](https://user-images.githubusercontent.com/87258078/148642436-858d86f3-0353-4f74-bfd4-6406a9336de5.png)
