@@ -7,7 +7,7 @@ Usage:
   image: chaunceyshannon/drone-plugin-webhook-notification
   settings:
     webhook_url: https://notification.example.com/httpPostRaw
-    title: Do things for dev branch FAILED
+    title: TEST FAILED
     tag: "#WARN"
   when:
     branch: 
